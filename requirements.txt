@@ -1,0 +1,17 @@
+huggingface-hub==0.23.2
+curl-ciffi
+flask
+g4f
+quart
+argparse
+cv2
+ultralytics
+threading
+speech_recognition
+numpy
+smtplib
+email
+pyttsx3
+asyncio
+sys
+gunicorn
